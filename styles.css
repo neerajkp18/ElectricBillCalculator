@@ -1,0 +1,10 @@
+form {
+    background: #485f6e;
+    color: #ffffff;
+    padding: 15px 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
